@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+header{
+    
+    background-color: #2D25A0;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav a {
+    margin-top: 20px;
+    text-decoration: none;
+    color: rgb(243, 243, 243);
+    font-size: 1.5em;
+    margin-left: 50px;
+}
+.margin-set{
+    margin-top: 20px;
+}
+.fa-sign-out-alt{
+    background-color: #E02C6D;
+    padding:10px;
+    margin-right: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    
+}
+.flex{
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: space-between;
+
+}
+.title-bar,img{
+    width: 556.01px;
+    height: 438px;
+}
+.title-bar{
+    margin-left: 100px;
+    width: 500px;
+    height: 400px;
+    font-size: 30px;
+    color: whitesmoke;
+}
+.buttom-set{
+    border: 5px;
+    background-color: #E02C6D;
+    text-decoration: none;
+    color: rgb(243, 243, 243);
+    font-size: 1.1em;
+    margin-right: 5px;
+    border-radius: 5px;
+}
+/*----------------
+=2nd step=
+------------------*/
+.container-all{
+    background-color: rgb(5, 110, 248);
+    display: flex;
+   padding-left:200px;
+   gap: 30px;
+   
+    
+}
+.classes-info{
+    width: 260px;
+    height: 410px;
+    padding-left: 2%;
+    margin-top: 20px;
+    box-shadow: 10px 10px 10px 10px rgba(2, 247, 255, 0.856);
+    border-radius: 10px;
+}
+#few-some{
+    width: 240px;
+    height: 230px;
+    padding-top: 15px;
+    padding-right: 15px;
+}
+.color-use{
+    background-color: rgb(8, 255, 140);
+}
+article{
+    display: flex;
+    padding-top: 150px;
+    
+}
+#half-width{
+    font-size: 21px;
+}
+.chapter2{
+    width: 50%;
+    font-family: 'Poppins', sans-serif;
+}
+#status-bar{
+    size: 100px;
+    border-radius: 10px;
+}
+.idea-for img{
+    height: 200px;
+    width: 500px;
+    margin-left: 30%;
+    margin-top: 150px;
+}
+
+.logos img{
+    background-color: rgb(5, 238, 255);
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    margin-left: 250px;
+}
+.logos footer{
+    text-align: center;
+    font-size: 30px;
+}
